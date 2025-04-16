@@ -27,4 +27,3 @@ This project showcases a comprehensive analysis of e-commerce sales using Power 
 - DAX for calculated measures  
 - Data transformation using Power Query Editor  
 
-![image](https://github.com/user-attachments/assets/73b84089-e235-4cdc-8301-4b6371844b97)
